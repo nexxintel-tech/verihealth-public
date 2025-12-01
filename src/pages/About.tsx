@@ -26,24 +26,24 @@ export default function About() {
 
   const team = [
     {
-      name: 'Dr. Sarah Chen',
+      name: 'Dr. Paul Ufoegbunam',
       role: 'Chief Medical Officer',
-      bio: '15+ years in cardiology and telemedicine',
+      bio: '15+ years in Anaesthesiology and Critical Care',
     },
     {
-      name: 'Michael Rodriguez',
-      role: 'Chief Technology Officer',
-      bio: 'Former Lead Engineer at major health tech companies',
+      name: 'Alabike David',
+      role: 'Chief Executive Officer',
+      bio: 'Convener of HealthTech For Good Nigeria',
     },
     {
-      name: 'Emily Johnson',
+      name: 'Dr Matt Ichoku',
       role: 'VP of Clinical Operations',
       bio: 'Registered nurse with expertise in remote monitoring',
     },
     {
-      name: 'David Park',
+      name: 'Micheal Toba',
       role: 'Head of AI Research',
-      bio: 'PhD in Machine Learning, published researcher',
+      bio: 'Machine Learning, published researcher',
     },
   ];
 
@@ -73,7 +73,7 @@ export default function About() {
               </h2>
               <p className="text-lg text-gray-600 mb-4">
                 VeriHealth was founded with a simple yet powerful vision: to give people proactive
-                 control over their health through seamless remote monitoring and rapid, intelligent care
+                 control over their health through integrated remote monitoring and rapid intelligent care
               </p>
               <p className="text-lg text-gray-600 mb-4">
                 We believe that continuous remote monitoring combined with artificial intelligence 
@@ -82,7 +82,7 @@ export default function About() {
               </p>
               <p className="text-lg text-gray-600">
                 Our platform empowers healthcare providers with real-time data and actionable 
-                insights, enabling rapid action that delivers proactive, personalized care and improves 
+                insights, enabling swift action that delivers proactive, personalized care and improves 
                 patient outcomes.
               </p>
             </div>
