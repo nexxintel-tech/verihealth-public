@@ -14,11 +14,6 @@ const slides = [
     subtitle: 'Delivering world-class monitoring technology to improve patient outcomes across Nigeria',
   },
   {
-    image: '/attached_assets/stock_images/nigerian_healthcare__11fd18f9.jpg',
-    title: 'Professional Clinical Excellence',
-    subtitle: 'Trusted by healthcare professionals for real-time patient monitoring and care',
-  },
-  {
     image: '/attached_assets/stock_images/nigerian_family_heal_8832232c.jpg',
     title: 'Care for Every Generation',
     subtitle: 'From children to elderly, comprehensive health monitoring for Nigerian families',
