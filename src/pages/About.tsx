@@ -69,21 +69,21 @@ export default function About() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-3xl lg:text-5xl font-heading font-bold text-gray-900 mb-6">
-                Our Mission
+                Our Vision
               </h2>
               <p className="text-lg text-gray-600 mb-4">
-                VeriHealth was founded with a simple yet powerful vision: to make high-quality 
-                healthcare accessible to everyone, regardless of location or circumstance.
+                VeriHealth was founded with a simple yet powerful vision: to give people proactive
+                 control over their health through seamless remote monitoring and rapid, intelligent care
               </p>
               <p className="text-lg text-gray-600 mb-4">
                 We believe that continuous remote monitoring combined with artificial intelligence 
-                can revolutionize how chronic conditions are managed, preventing complications 
+                can revolutionize how chronic conditions are averted, preventing complications 
                 before they become critical.
               </p>
               <p className="text-lg text-gray-600">
                 Our platform empowers healthcare providers with real-time data and actionable 
-                insights, enabling them to deliver proactive, personalized care that improves 
-                patient outcomes and reduces healthcare costs.
+                insights, enabling rapid action that delivers proactive, personalized care and improves 
+                patient outcomes.
               </p>
             </div>
             <div className="relative h-96 rounded-2xl overflow-hidden shadow-2xl">
