@@ -76,7 +76,7 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start gap-2">
                 <Mail className="h-5 w-5 text-medical-blue-600 flex-shrink-0 mt-0.5" />
-                <span className="text-sm text-gray-600">info@verihealth.com</span>
+                <span className="text-sm text-gray-600">info@verihealths.com</span>
               </li>
               <li className="flex items-start gap-2">
                 <Phone className="h-5 w-5 text-medical-blue-600 flex-shrink-0 mt-0.5" />
@@ -84,7 +84,7 @@ export default function Footer() {
               </li>
               <li className="flex items-start gap-2">
                 <MapPin className="h-5 w-5 text-medical-blue-600 flex-shrink-0 mt-0.5" />
-                <span className="text-sm text-gray-600">123 Healthcare Blvd<br />Medical District, CA 94102</span>
+                <span className="text-sm text-gray-600">House 2, Close3, Ofem Ibor Street<br />Apo District, Abuja</span>
               </li>
             </ul>
           </div>
