@@ -62,7 +62,7 @@ export default function Home() {
               Why Choose VeriHealth?
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Cutting-edge technology designed to transform how you monitor and care for patients
+              Intuitive inteligence designed to monitor everyday wellness and daily choice
             </p>
           </div>
 
