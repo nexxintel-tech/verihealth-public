@@ -4,18 +4,18 @@ export default function About() {
   const values = [
     {
       icon: Heart,
-      title: 'Patient-Centered',
-      description: 'Every decision we make is guided by what\'s best for patient health and wellbeing',
+      title: 'Surveillance First',
+      description: 'We strive toward empowering our clients to stay ahead of potential health crises',
     },
     {
       icon: Users,
       title: 'Collaboration',
-      description: 'We partner with healthcare providers to create solutions that truly work',
+      description: 'We partner with healthcare providers to create solutions that elevate clients engagement for proactive care',
     },
     {
       icon: Award,
       title: 'Excellence',
-      description: 'We strive for the highest standards in technology, security, and patient care',
+      description: 'We aim for the highest standards in gadget essentials geared toward predictive surveillance and improved outcomes',
     },
     {
       icon: Target,
@@ -33,17 +33,17 @@ export default function About() {
     {
       name: 'Alabike David',
       role: 'Chief Executive Officer',
-      bio: 'Convener of HealthTech For Good Nigeria',
+      bio: '10+ years in Health Tech entrepreneurship and Management',
     },
     {
       name: 'Dr Matt Ichoku',
       role: 'VP of Clinical Operations',
-      bio: 'Registered nurse with expertise in remote monitoring',
+      bio: '15+ years in Clinical Operations with expertise in remote monitoring',
     },
     {
-      name: 'Micheal Toba',
-      role: 'Head of AI Research',
-      bio: 'Machine Learning, published researcher',
+      name: 'Chioma Nwano',
+      role: 'Business Development Lead',
+      bio: 'Finance Analyst|MBA|Business and Strategy Development Expert',
     },
   ];
 
@@ -63,7 +63,7 @@ export default function About() {
         </div>
       </section>
 
-      {/* Mission Section */}
+      {/* Vision Section */}
       <section className="py-10 lg:py-14">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
@@ -72,18 +72,18 @@ export default function About() {
                 Our Vision
               </h2>
               <p className="text-lg text-gray-600 mb-4">
-                VeriHealth was founded with a simple yet powerful vision: to give people proactive
+                VeriHealth was founded with a simple yet powerful vision to give people proactive
                  control over their health through integrated remote monitoring and rapid intelligent care
               </p>
               <p className="text-lg text-gray-600 mb-4">
-                We believe that continuous remote monitoring combined with artificial intelligence 
-                can revolutionize how chronic conditions are averted, preventing complications 
-                before they become critical.
+                Smart devices has revolutionize personalized healthcare and improved how chronic conditions are averted,
+                diminishing critical complications. Therefore, our mission is to advance solutions
+                that combines predictive surveillance with interventions that drives better health outcomes
               </p>
               <p className="text-lg text-gray-600">
                 Our platform empowers healthcare providers with real-time data and actionable 
-                insights, enabling swift action that delivers proactive, personalized care and improves 
-                patient outcomes.
+                insights for swift action that delivers proactive care and improved
+                patient wellbeing.
               </p>
             </div>
             <div className="relative h-96 rounded-2xl overflow-hidden shadow-2xl">
