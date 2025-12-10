@@ -62,7 +62,7 @@ export default function Home() {
               Why Choose VeriHealth?
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Intuitive inteligence designed to monitor everyday wellness and Advance healthy daily choices
+              24Hrs Smart Health Risk Surveillance Designed to Monitor everyday Wellness and Advance Healthy daily choices
             </p>
           </div>
 
